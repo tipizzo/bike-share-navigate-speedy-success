@@ -25,7 +25,7 @@ The two datasets are available in this repo.
 
 ### Installation of packages
 
-First of all, I am going install the "tidyverse" and "ggplot2 packages. 
+First of all, I am going to install the "tidyverse" package. No I am not going to install "ggplot2" - because it's part of the tidyverse package.
 
 Tidyverse is a collection of packages in R designed specifically for data science tasks. It offers a cohesive framework that streamlines data manipulation, analysis, and visualization.
 
