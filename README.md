@@ -8,7 +8,7 @@ This case study is part of my Google Data Analytics Professional Specialization.
 
 The director of marketing of a fictional bike-share company based in Chicago believes that the company's future success depends on maximizing the number of annual memberships. Therefore, I want to understand how casual riders and annual members use Cyclistic bikes differently.From these insights, a new marketing strategy will be designed to convert casual riders into annual members.
 
-Cyclistic's finance analysts have concluded that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers, the director of Marketing believes that maximinz the number of annual members will be key to future growth.
+Cyclistic's finance analysts have concluded that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers, the director of Marketing believes that maximize the number of annual members will be key to future growth.
 
 ### Description of data sources used
 
@@ -21,7 +21,9 @@ In our case, I will be using two datasets:
 * Divvy_2019_Q1
 * Divvy_2020_Q2
 
-### Instalation of packages
+The two datasets are available in this repo.
+
+### Installation of packages
 
 First of all, I am going install the "tidyverse" and "ggplot2 packages. 
 
